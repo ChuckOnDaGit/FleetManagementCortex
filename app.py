@@ -15,7 +15,7 @@ st.set_page_config(
 st.markdown("""
     <style>
         .block-container { padding-top: 1.5rem; padding-bottom: 1.5rem; }
-        .stMetric { background-color: #f0f2f6; padding: 10px; border-radius: 8px; }
+        .stMetric { background-color: #0090BF; padding: 10px; border-radius: 8px; }
     </style>
 """, unsafe_allow_html=True)
 
